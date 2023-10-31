@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wpE8+kNPwLFO4pMxi2TIpIP5nKK1Ijbd7CIdzlB0etLmbc9lqMnxufPj80I2kN4JwoOyrdS58/g7BVVi95Jp/w==",
+  "dgSpecHash": "VDL7N2oQV22PNDx8LA9pnKTgB8n1U0kNIU1XnLDIwxCjhpSUaLAkVNkqftlWo8QlCHwoAHMeu+w5F4DtC37Kcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Marin\\Documents\\GitHub\\prueba_intuito\\Prueba_Intuito.csproj",
+  "projectFilePath": "C:\\Users\\Luis Marin\\source\\repos\\luismarin98\\prueba_intuito\\Prueba_Intuito.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Marin\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Luis Marin\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

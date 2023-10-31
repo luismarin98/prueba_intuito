@@ -1798,11 +1798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis Marin\\Documents\\GitHub\\prueba_intuito\\Prueba_Intuito.csproj",
+      "projectUniqueName": "C:\\Users\\Luis Marin\\source\\repos\\luismarin98\\prueba_intuito\\Prueba_Intuito.csproj",
       "projectName": "Prueba_Intuito",
-      "projectPath": "C:\\Users\\Luis Marin\\Documents\\GitHub\\prueba_intuito\\Prueba_Intuito.csproj",
+      "projectPath": "C:\\Users\\Luis Marin\\source\\repos\\luismarin98\\prueba_intuito\\Prueba_Intuito.csproj",
       "packagesPath": "C:\\Users\\Luis Marin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luis Marin\\Documents\\GitHub\\prueba_intuito\\obj\\",
+      "outputPath": "C:\\Users\\Luis Marin\\Source\\Repos\\luismarin98\\prueba_intuito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
